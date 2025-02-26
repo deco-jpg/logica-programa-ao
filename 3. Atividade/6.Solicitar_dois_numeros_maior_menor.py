@@ -17,6 +17,5 @@ print (f"O segundo número é: {num_dois}")
 print (f"O maior número é: {maior}")
 print (f"O menor número é: {menor}")
 
-print ("===FIM===")2
-3
+
 
